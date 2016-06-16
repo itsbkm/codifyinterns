@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<<head>
+<title>Resume</title>
+<link rel="stylesheet" href="style.css" media="screen" title="no title" charset="utf-8">
+</head>
+<body>
+<h1>Rana Singh Vij</h1>
+<p>7696667009 &nbsp; &nbsp; &nbsp; rvwork009@gmail.com
+<h3>Profile</h3>
+<p>I am Rana Singh Vij , keen learner , wannabe programmer,okay!! at studies </p>
+<h3>Experience</h3>
+<p>Presently going  at a CS training course at codify pvt ltd.<br>Member of electronics club at budha dal public school</p>
+<h4>Education</h4>
+<p>12th in science with 75% marks from play ways sr. sec. school, patiala</p>
+<P>10th with 80% marks from Budha Dal Public School Patiala <P>
+<P> Self Taught <P>
+<P> Online Tutorials <P>
+<h4>Skill</h4>
+<p>C<br> Github management <br> I can Fluently Speak in 3 languages (Hindi,Punjabi and English)</p>
+<h3>Refrences</h3>
+<p>Bankim Bhagat Founder of Codify Pvt Ltd </p>
+<p>Mr. Rajdeep Sngh Principal at Play Ways Sr. Sec. School,Patiala</p>
+</body>
+
+
+</html>
