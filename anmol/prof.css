@@ -1,0 +1,67 @@
+.main{
+height: 615px;
+width: auto;
+
+
+
+}
+h1{
+text-align: center;
+font-family: Daulphin Plain;
+margin-top: auto;
+font-size: 60px;
+
+
+
+
+}
+.resume{height: 202px;
+  width: 320px;
+
+margin-left: 330px;
+margin-top: 220px;
+float: left;
+
+
+}
+.resume:hover{transform:scale(1.2);
+
+  transition-duration: 1.5s;
+
+
+
+}
+.projects:hover{transform:scale(1.2);
+  transition-duration: 1.5s;}
+
+
+
+.projects{
+height: 202px;
+width: 245px;
+;
+float: right;
+margin-top: 200px;
+margin-right: 330px;
+
+}
+.resume1{height: 202px;
+  width: 320px;
+}
+.resume2{height: 202px;
+  width: 320px;
+
+
+float: left;
+}
+
+.projects1{
+height: 202px;
+width: 245px;
+;
+}
+.projects2{
+height: 202px;
+width: 245px;
+;
+}
