@@ -1,0 +1,49 @@
+body{
+  background-image: url("batman_arkham_city_characters_girl_pistol_city_black_and_white_harley_quinn_batman_19701_3840x2160.jpg");
+  background-size: cover;
+
+}
+#main{
+  height: 615px;
+  width: auto;
+
+
+}
+h1{
+  text-align: center;
+  color: black;
+}
+
+#resume{height: 450px;
+  width: 300px;
+  margin-left: 230px;
+  margin-top: 220px;
+  float: left;
+
+}
+
+.resume1{
+
+}
+.resume2{
+
+}
+#projects{height: 450px;
+  width: 300px;
+  margin-right: 140px;
+  margin-top: 220px;
+  float: right;
+
+
+}
+
+.projects1{
+
+}
+.projects2{
+
+}
+p{
+  text-align: center;
+  color: white;
+}
